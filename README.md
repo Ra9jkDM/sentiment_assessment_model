@@ -7,3 +7,4 @@
 - Synonyms.ipynb - загрузка синонимов и представление всех синонимов из одного ряда, как одно слово
 - ML_Naive_Bayes_classifier.ipynb - обучение модели Naive_Bayes
 - ML_CNN.ipynb - обучение модели сверточной нейронной сети
+- ML_LSTM.ipynb - обучение LSTM модели
