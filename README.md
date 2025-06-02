@@ -8,3 +8,4 @@
 - ML_Naive_Bayes_classifier.ipynb - обучение модели Naive_Bayes
 - ML_CNN.ipynb - обучение модели сверточной нейронной сети
 - ML_LSTM.ipynb - обучение LSTM модели
+- ML_GRU.ipynb - обучение GRU модели
